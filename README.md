@@ -24,7 +24,7 @@ My personal Python learning journey following Angela Yu’s
 ---
 
 ## 🎯 Goal
-Build strong Python fundamentals and become job-ready.
+Build strong Python fundamentals 
 
 ---
 
