@@ -12,7 +12,7 @@ def cycle():
     move()
     turn_left()
 
-while at_goal != true:
+while at_goal() != true:
     cycle()
 
 
